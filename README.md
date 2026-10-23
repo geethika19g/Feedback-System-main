@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +19,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # Feedback-System
 A React-based Feedback System where users submit ratings and details through a form. The app validates inputs, saves multiple feedback entries using browser LocalStorage, and displays all submitted feedbacks in a clean and user-friendly interface.
 >>>>>>> 8a29fb084e0cc2dd7bc979fc2c632bb96998fd92
+=======
+# Feedback-System-main
+>>>>>>> 63e8072be0012145921dc23e35e270f15a34cbec
